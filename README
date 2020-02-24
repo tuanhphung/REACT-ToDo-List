@@ -3,7 +3,6 @@ Description
 A Single page application based on React frameworks.
 The application is built from React's functional components so that React Hooks can be utilised rather than class-based components to handle states.
 
-
 Technology used :
 * JavaScript.
 * JSX.
